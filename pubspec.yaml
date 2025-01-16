@@ -1,0 +1,16 @@
+name: mongo_client_dart
+description: The mongo_client_dart package provides a reusable, generic MongoDB client for Dart, simplifying CRUD operations with model-based serialization
+version: 1.0.3
+repository: https://github.com/HKTareen/mongo_client_dart.git
+
+environment:
+  sdk: ^3.1.2
+
+# Add regular dependencies here.
+dependencies:
+  mongo_dart: ^0.10.3
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
